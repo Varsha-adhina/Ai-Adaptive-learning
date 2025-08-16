@@ -1,1 +1,1 @@
-# Ai-Adaptive-learning
+# AI-Adaptive-learning
