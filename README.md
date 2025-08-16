@@ -111,9 +111,6 @@ adaptive-ai-learning/
 
 How to Run
 
-Clone the repository:
-
-git clone https://github.com/<your-username>/adaptive-ai-learning.git
 
 
 Open index.html in a web browser.
